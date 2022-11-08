@@ -1,2 +1,2 @@
-# ekowe99-Git Shop
+# EkowE99-Git Shop
  Test DevOps
